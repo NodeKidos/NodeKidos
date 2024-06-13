@@ -1,7 +1,7 @@
 <img src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif" alt="backgroundCodeGif" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Navaratnam Sanjeeva</h1>
-<h3 align="center">A passionate software craftsman, molding functionality into digital masterpieces.</h3>
+<h1 align="center">Hi 👋, We are NodeKidos</h1>
+<h3 align="center">A passionate software developing company, molding functionality into digital masterpieces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21334542&label=Profile%20views&color=0e75b6&style=flat" alt="it21334542" /> </p>
   <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="backgroundCodeGif" width="50%" height="50%" align="right"/>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ReactThreeFibre,Java,MERN**
 
-- 📫 How to reach me **shankarjeevan011@gmail.com**
+- 📫 How to reach me **nodekidos@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ugkoChE2VUWj1MeG9_pIv5q2k5R9PycQ/view?usp=sharing](https://drive.google.com/file/d/1ugkoChE2VUWj1MeG9_pIv5q2k5R9PycQ/view?usp=sharing)
 
 - ⚡ Fun fact **Creative innovations inspires me**
